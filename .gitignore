@@ -1,0 +1,10 @@
+# Ignore everything. 
+* 
+
+# Except the necicary example files. 
+!.gitignore
+!.gitattributes
+!arena.py
+!random_player.py
+!README.md
+!requirements.txt
